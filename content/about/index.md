@@ -1,0 +1,14 @@
+---
+title: "About me"
+description: "Saying hi here"
+---
+
+I am a PhD student at the Department of Climate, Meteorology, and Atmospheric Sciences, University of Illinois, Urbana-Champaign. 
+
+My primary interest focuses on cloud feedbacks and their impacts to the global radiation budget and climate sensitivity, and the representations of unresolved processes in global climate models. My work focuses on narrowing the range of equilibrium climate sensitivity (ECS), the standard metric used to quantify the magnitude of climate change. ECS estimates remain widely dispersed due to the uncertainty in the dependence of climate responses to the time-evolving surface warming pattern, termed the pattern effect. This uncertainty in global climate models (GCMs) largely stems from cloud radiative feedbacks. Since many cloud processes occur at scales that GCMs cannot resolve, they are approximated using parameterization schemes. My research aims to understand how the pattern effect depends on cloud representations in models. 
+
+Another integral part of my research effort is incorporating the latest computational advances into my research workflow. Since my internship at the National Center for Atmospheric Research (NCAR), I have been contributing to the scientific computation and visualization package on unstructured grids, UXarray, which I view to be a heavily-used coding software for the next-generation climate models as models transition towards storm-resolving scales and unstructured grids. 
+
+I value the diversity and inclusivity in the scientific community.  Being part of the Asian community, I am an active steering committee member in the grassroot non-profit, Asian American Pacific Islanders in Geosciences (AAPIIG).  I have been co-organizing the Asian American, Native Hawaiian, and Pacific Islander (AANHPI) Heritage Month events since 2023. Happy to chat more about research and service opportunities that relates to any of my interests! 
+
+Outside of research, you will find me going on road trips, talking long walks under the sun, and practicing the Japanese martial art, Kendo. I currently lead the UIUC Kendo Club (Instagram: @illini_kendo_club) by running practices, organizing in-club social events and external trips to seminars, tournaments and tests.  I also actively outreach with other Kendo dojos in the Midwest, including St Louis, Indianapolis and the Greater Chicago area. 

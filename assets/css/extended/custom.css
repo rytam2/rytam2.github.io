@@ -1,10 +1,7 @@
-/* When the site is in Dark Mode, invert the logo icon */
-.dark .logo img {
-    filter: invert(1);
-}
+.dark .logo img {filter: invert(1);}
 
 
-/* FRONT PAGE ICONS ONLY - Light mode */
+/* Front page icons (light mode) */
 @media (prefers-color-scheme: light), [data-theme="light"] {
   .icon-box,
   .section-icon,
@@ -28,7 +25,7 @@
   }
 }
 
-/* DARK MODE front page icons */
+/* front page icons (dark mode)*/
 @media (prefers-color-scheme: dark), [data-theme="dark"] {
   .icon-box, 
   i.fas, 
@@ -42,5 +39,7 @@
 body {font-family: 'Source Sans 3', sans-serif;}
 h1, h2, h3, h4, h5, h6 {font-family: 'Source Sans 3', sans-serif;}
 
-/* Code font stays as default */
+/* Code block font stays default */
 code, pre, kbd, samp {font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;}
+
+
