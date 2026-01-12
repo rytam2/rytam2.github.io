@@ -3,8 +3,6 @@ title: "About me"
 description: "Saying hi here"
 ---
 
-I am a PhD student at the Department of Climate, Meteorology, and Atmospheric Sciences, University of Illinois, Urbana-Champaign. 
-
 My primary interest focuses on cloud feedbacks and their impacts to the global radiation budget and climate sensitivity, and the representations of unresolved processes in global climate models. My work focuses on narrowing the range of equilibrium climate sensitivity (ECS), the standard metric used to quantify the magnitude of climate change. ECS estimates remain widely dispersed due to the uncertainty in the dependence of climate responses to the time-evolving surface warming pattern, termed the pattern effect. This uncertainty in global climate models (GCMs) largely stems from cloud radiative feedbacks. Since many cloud processes occur at scales that GCMs cannot resolve, they are approximated using parameterization schemes. My research aims to understand how the pattern effect depends on cloud representations in models. 
 
 Another integral part of my research effort is incorporating the latest computational advances into my research workflow. Since my internship at the National Center for Atmospheric Research (NCAR), I have been contributing to the scientific computation and visualization package on unstructured grids, UXarray, which I view to be a heavily-used coding software for the next-generation climate models as models transition towards storm-resolving scales and unstructured grids. 
