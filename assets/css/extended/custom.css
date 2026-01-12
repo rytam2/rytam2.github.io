@@ -1,0 +1,46 @@
+/* When the site is in Dark Mode, invert the logo icon */
+.dark .logo img {
+    filter: invert(1);
+}
+
+
+/* FRONT PAGE ICONS ONLY - Light mode */
+@media (prefers-color-scheme: light), [data-theme="light"] {
+  .icon-box,
+  .section-icon,
+  .feature-icon,
+  .hero-icon,
+  .card-icon,
+  i.fas,
+  i.fa,
+  .frontpage-icon {
+    /* Adding a fallback color (the #hex) helps the linter */
+    background: var(--lightcolor, #fff2cc) !important;
+    color:var(--darkcolor, #f1c232) !important;
+    border-radius:8px;
+    padding:12px;
+    display:inline-block; /* Helps padding render correctly on <i> tags */
+  }
+  
+  .icon-box:hover,
+  i.fas:hover {
+    background: #f2e8b3 !important;
+  }
+}
+
+/* DARK MODE front page icons */
+@media (prefers-color-scheme: dark), [data-theme="dark"] {
+  .icon-box, 
+  i.fas, 
+  i.fa {
+    background: var(--darkcolor, #f1c232) !important;
+    color: #ffffff !important;
+  }
+}
+
+/* Font Style */
+body {font-family: 'Source Sans 3', sans-serif;}
+h1, h2, h3, h4, h5, h6 {font-family: 'Source Sans 3', sans-serif;}
+
+/* Code font stays as default */
+code, pre, kbd, samp {font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;}
