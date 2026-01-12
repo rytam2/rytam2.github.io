@@ -1,6 +1,6 @@
-# Minimalist Hugo Template for Academic Websites
+# Personal Website 
 
-This repository contains a personal academic website made with the [Hugo](https://github.com/gohugoio/hugo) template, which the template documentation can be accessed at https://pascalmichaillat.org/b/.
+This repository contains Rachel Tam's personal academic website made with the [Hugo](https://github.com/gohugoio/hugo) template, which the template documentation can be accessed at https://pascalmichaillat.org/b/.
 
 ## Performance
 
